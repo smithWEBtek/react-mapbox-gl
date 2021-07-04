@@ -1,4 +1,5 @@
 import './App.css';
+import Map from './components/Map/Map';
 
 function App() {
   return (
@@ -6,6 +7,7 @@ function App() {
       <header className="App-header">
         <h3>React Map GL</h3>
       </header>
+      <Map />
     </div>
   );
 }
