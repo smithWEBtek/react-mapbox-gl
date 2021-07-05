@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 0,
+        "name": "Berlin,NH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18,
+          44.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Concord,NH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.50,
+          43.20
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Jaffrey,NH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.00,
+          42.80
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Keene,NH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.27,
+          42.90
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Laconia,NH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.43,
+          43.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Lebanon,NH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.30,
+          43.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "Manchester,NH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.43,
+          42.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "Mt Washingtn,NH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.30,
+          44.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "Nashua,NH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.52,
+          42.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "Pease AFB,NH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.82,
+          43.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "Wolfeboro,NH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.38,
+          44.00
+        ]
+      }
+    }
+  ]
+}
