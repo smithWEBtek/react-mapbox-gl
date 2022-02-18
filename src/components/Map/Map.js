@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { useState } from 'react';
-import ReactMapGL, { FlyToInterpolator, LinearInterpolator, WebMercatorViewport, Marker } from 'react-map-gl';
+import ReactMapGL, { FlyToInterpolator, LinearInterpolator, WebMercatorViewport } from 'react-map-gl';
 import { easeCubic } from 'd3-ease';
 import FlyTo from '../FlyTo/FlyTo';
 import styles from './Map.module.scss';
@@ -90,11 +90,11 @@ const Map = () => {
       <button className={styles.FlyButton} onClick={goToNYC}>New York City</button>
       <button className={styles.FlyButton} onClick={goToSF}>San Francisco</button>
       <button className={styles.FlyButton} onClick={goToAtlanta}>Atlanta</button>
-    <ReactMapGL
-      className={styles.Map}
+      <ReactMapGL
+        className={styles.Map}
         {...viewport}
         onViewportChange={setViewport}
-    />
+      />
     </div>
   );
 }
