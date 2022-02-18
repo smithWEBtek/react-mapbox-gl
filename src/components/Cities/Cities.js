@@ -1,7 +1,7 @@
 import React from 'react';
 import { Marker } from 'react-map-gl';
 import NHdata from '../../assets/json/nh.json';
-// import Star from '../../assets/images/star.svg';
+import Star from '../../assets/images/star.svg';
 import Mic from '../../assets/images/mic.svg';
 
 const Cities = () => {
@@ -15,6 +15,7 @@ const Cities = () => {
           offsetTop={-10}
         >
           <img src={Mic} alt="mic" />
+          <img src={Star} alt="star" />
         </Marker>
       </div>
     );
